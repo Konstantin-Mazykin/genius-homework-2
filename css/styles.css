@@ -169,8 +169,7 @@ address {
 
 /* General section*/
 .general-section {
-    padding: 74px 0 160px 0;
-    margin-top: -74px;
+    padding: 16px 0 160px 0;
     background-image: url(../images/header-backgraund.jpg);
     background-position: center;
     background-size: cover;
