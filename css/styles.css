@@ -275,6 +275,9 @@ address {
 }
 
 /* Procedure section */
+.procedure-section {
+    margin-bottom: 96px;
+}
 .procedure-container {
     display: flex;
     align-items: center;
